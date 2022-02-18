@@ -11,3 +11,14 @@
 .planeta {
   width: 100px;
 }
+
+.missoes {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  width: 80%;
+}
+
+.missao {
+  border: 1px solid gray;  
+}
