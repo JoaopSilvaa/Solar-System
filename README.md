@@ -11,7 +11,7 @@ Visualizar todas as cartas com informações sobre missões espaciais;
 
 ## Técnologias usadas
 
-> Desenvolvido usando: Javascript, HTML, CSS.
+> Desenvolvido usando: React, Javascript, HTML, CSS.
 
 ## Executando a aplicação
 
